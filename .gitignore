@@ -1,0 +1,17 @@
+# Local runtime files and private working data
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+*.sqlite
+*.sqlite3
+private/
+raw-data/
+participant-data/
+*.secret

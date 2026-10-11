@@ -29,6 +29,9 @@ Our initial engineering analogy is a **cognitive strategy router**: classify a p
 - [Proposed conceptual framework](docs/conceptual-framework.md)
 - [Research questions and hypotheses](research/research-questions.md)
 - [Literature and evidence register](research/evidence-register.md)
+- [Draft N-of-1 pilot protocol](protocols/n-of-1-pilot.md)
+- [Data dictionary and empty templates](data/README.md)
+- [Ethics and privacy](governance/ethics-and-privacy.md)
 - [Development roadmap](ROADMAP.md)
 
 ## Principles
@@ -37,4 +40,4 @@ Our initial engineering analogy is a **cognitive strategy router**: classify a p
 
 **Current stage:** Conceptual scaffold, version 0.1. No original experiment has been completed and no empirical improvement is claimed.
 
-Open issues and contributions are welcome. This is a public research repository, not an archive for anyone's private cognitive or health data.
+Corrections and critical discussion are welcome via GitHub Issues. See [CONTRIBUTING.md](CONTRIBUTING.md). Original research documentation is published under [CC BY 4.0](LICENSE.md); linked external material retains its own rights.
